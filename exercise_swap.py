@@ -1,7 +1,6 @@
 def swap():
     """
     Ejercicio 9 - Intercambio de Variables
-
     Dados dos valores x e y, intercambiar sus valores e imprimir:
     1. El valor original de x
     2. El valor original de y
