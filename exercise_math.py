@@ -1,7 +1,6 @@
 def math():
     """
     Ejercicio 1 - Operaciones Matemáticas
-
     Dado dos números enteros a y b, imprimir:
     1. La suma
     2. La diferencia
