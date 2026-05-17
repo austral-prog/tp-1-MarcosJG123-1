@@ -1,7 +1,6 @@
 def length():
     """
     Ejercicio 7 - Conversión de Unidades de Longitud
-
     Dada una distancia en metros, convertir e imprimir:
     1. Kilómetros (1 km = 1000 m)
     2. Millas (1 milla ≈ 1609.34 m)
