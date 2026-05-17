@@ -1,7 +1,6 @@
 def statistics():
     """
     Ejercicio 5 - Estadísticas Simples
-
     Dados cuatro números, calcular e imprimir:
     1. El promedio
     2. El máximo
