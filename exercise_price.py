@@ -1,7 +1,6 @@
 def price():
     """
     Ejercicio 8 - Cálculo de Precio Final
-
     Dado un precio base, calcular e imprimir:
     1. El monto del impuesto (21%)
     2. El subtotal (precio base + impuesto)
