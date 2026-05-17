@@ -1,7 +1,6 @@
 def grades():
     """
     Ejercicio 11 - Promedio de Calificaciones
-
     Dadas tres notas, calcular e imprimir:
     1. El promedio de las tres notas
     2. La nota máxima
